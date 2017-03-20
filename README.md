@@ -1,0 +1,2 @@
+# Aggregate-Latent-class-Bigram-model-on-Brown-corpus
+ Pereira (2000) uses the model to try to disprove one of the most famous foundational examples in 20th century linguistics; you will replicate this experiment and assess the evidence.The Brown Corpus was a pioneering dataset when it was released in the 1960s. Though it’s tiny by modern standards (1M words), it’s big enough to do a little latent-variable language learning.
